@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rift of War.CSharp.Plugins", "Rift of War.CSharp.Plugins.csproj", "{329C66C4-2910-1108-D1E6-00774E0ADDA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rift of War.CSharp", "Rift of War.CSharp.csproj", "{E730EF2C-575E-26D7-F26A-6F7F33EF1ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rift of War.CSharp.Editor", "Rift of War.CSharp.Editor.csproj", "{DA31723B-33BB-C8DC-B222-DD69C0FACC65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329C66C4-2910-1108-D1E6-00774E0ADDA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329C66C4-2910-1108-D1E6-00774E0ADDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329C66C4-2910-1108-D1E6-00774E0ADDA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329C66C4-2910-1108-D1E6-00774E0ADDA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E730EF2C-575E-26D7-F26A-6F7F33EF1ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E730EF2C-575E-26D7-F26A-6F7F33EF1ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E730EF2C-575E-26D7-F26A-6F7F33EF1ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E730EF2C-575E-26D7-F26A-6F7F33EF1ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA31723B-33BB-C8DC-B222-DD69C0FACC65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA31723B-33BB-C8DC-B222-DD69C0FACC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA31723B-33BB-C8DC-B222-DD69C0FACC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA31723B-33BB-C8DC-B222-DD69C0FACC65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
